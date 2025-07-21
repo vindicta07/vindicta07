@@ -6,7 +6,7 @@
 - 🌱 I'm learning **Machine Learning**, **Natural Language Processing**, and **Computer Vision**
 - 👯 I'm looking to collaborate on **AI/ML projects** and **Open Source contributions**
 - 💬 Ask me about **Python**, **Docker**, **PDF Processing**, and **Semantic Analysis**
-- 📫 How to reach me: **[Your Email/LinkedIn]**
+- 📫 How to reach me: **[https://www.linkedin.com/in/vindicta07/]**
 - ⚡ Fun fact: I love building intelligent document systems that understand context!
 
 ### 🛠️ Technologies & Tools
