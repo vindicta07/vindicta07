@@ -21,8 +21,7 @@
 ### 🚀 Featured Projects
 
 - **[PDF Intelligence Engine](https://github.com/vindicta07/adobe-hackathon-pdf-engine)** - Advanced document processing with persona-driven intelligence
-- **[Your Other Project]** - Brief description
-- **[Another Project]** - Brief description
+- **[Flipcheck](https://github.com/DeepRock-Dev/FlipCheck)** - Multi-feature Dashboard for Freshness Detection in Fruits and Vegetables
 
 ### 📊 GitHub Stats
 
