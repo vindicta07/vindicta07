@@ -46,8 +46,9 @@
 - 🥇 **Competitions** - ABU ROBOCON, E-YANTRA, ISRO IROC-2024, AAKRUTI, DJS UNPLUGGED 2.0
 - 🥇 **SOLIDWORKS CSWP** - Certified SOLIDWORKS Professional
 - 🥇 **Google Cloud** - Skill Boost Badges
-- 🚀 **Open Source Contributor** - Contributing to ML and document processing projects
+- 🚀 **Open Source Contributor** - Contributing to ML and document processing Projects
 - 📚 **Continuous Learner** - Always exploring new technologies
+-  📚 **Closed Source Contributor** - Contributing to Firm and Team Projects
 
 ### 📈 GitHub Activity
 
