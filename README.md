@@ -6,8 +6,8 @@
 - 🌱 I'm learning **Machine Learning**, **Natural Language Processing**, and **Computer Vision**
 - 👯 I'm looking to collaborate on **AI/ML projects** and **Open Source contributions**
 - 💬 Ask me about **Python**, **Docker**, **PDF Processing**, and **Semantic Analysis**
-- 📫 How to reach me: **[https://www.linkedin.com/in/vindicta07/]**
-- 📫 My Leetcode: **[https://leetcode.com/u/vindicta_07/]**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vindicta07/)**
+- 📫 My Leetcode: **[LeetCode](https://leetcode.com/u/vindicta_07/)**
 - ⚡ Fun fact: I love building intelligent document systems that understand context!
 
 ### 🛠️ Technologies & Tools
