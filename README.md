@@ -32,6 +32,7 @@
 - **[PDF Intelligence Engine](https://github.com/vindicta07/adobe-hackathon-pdf-engine)** - Advanced document processing with persona-driven intelligence
 - **[Flipcheck](https://github.com/DeepRock-Dev/FlipCheck)** - Multi-feature Dashboard for Freshness Detection in Fruits and Vegetables
 - **[AGV](https://github.com/vindicta07/AGV)** - Autonomous Ground Vehicle and Navigation System
+- **[SynthMusic](https://github.com/vindicta07/SynthMusic)** - Movements into music with SynthMusic
 
 ### 📊 GitHub Stats
 
